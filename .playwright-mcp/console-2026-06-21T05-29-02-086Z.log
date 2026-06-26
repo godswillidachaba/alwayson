@@ -1,0 +1,7 @@
+[     933ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://wearealwayson.com/:0
+[    2158ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://wearealwayson.com/favicon.ico:0
+[  815592ms] [ERROR] Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR @ https://wearealwayson.com/:0
+[  815593ms] [ERROR] Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR @ https://wearealwayson.com/build/assets/inter-700-normal-CjBOestx.woff2:0
+[  815593ms] [ERROR] Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR @ https://wearealwayson.com/build/assets/marketing-footer-DnZV2pZH.js:0
+[  815593ms] [ERROR] Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR @ https://wearealwayson.com/build/assets/zap-Diu1L_3j.js:0
+[  815593ms] [ERROR] Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR @ https://wearealwayson.com/build/assets/inter-700-normal-Yt3aPRUw.woff2:0

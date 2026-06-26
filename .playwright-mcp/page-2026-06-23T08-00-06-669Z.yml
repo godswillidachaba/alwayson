@@ -1,0 +1,114 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "AlwaysON" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "AlwaysON" [ref=e7]
+        - navigation [ref=e8]:
+          - link "How it works" [ref=e9] [cursor=pointer]:
+            - /url: /#how
+          - link "Pricing" [ref=e10] [cursor=pointer]:
+            - /url: /#pricing
+          - link "FAQ" [ref=e11] [cursor=pointer]:
+            - /url: /#faq
+        - generic [ref=e12]:
+          - link "Sign in" [ref=e13] [cursor=pointer]:
+            - /url: /login
+          - link "Apply now" [ref=e14] [cursor=pointer]:
+            - /url: /apply
+    - main [ref=e15]:
+      - generic [ref=e16]:
+        - link "← Back to home" [ref=e17] [cursor=pointer]:
+          - /url: /
+        - heading "Get your AlwaysON quote" [level=1] [ref=e18]
+        - paragraph [ref=e19]: Takes about 10 minutes. We save your progress automatically — come back any time on any device.
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - button "1 Your details" [ref=e23]:
+              - generic [ref=e24]: "1"
+              - generic [ref=e25]: Your details
+            - generic [ref=e26]: ·
+          - generic [ref=e27]:
+            - button "2 Your location" [ref=e28]:
+              - generic [ref=e29]: "2"
+              - generic [ref=e30]: Your location
+            - generic [ref=e31]: ·
+          - generic [ref=e32]:
+            - button "3 Appliances" [ref=e33]:
+              - generic [ref=e34]: "3"
+              - generic [ref=e35]: Appliances
+            - generic [ref=e36]: ·
+          - generic [ref=e37]:
+            - button "4 Load summary" [ref=e38]:
+              - generic [ref=e39]: "4"
+              - generic [ref=e40]: Load summary
+            - generic [ref=e41]: ·
+          - generic [ref=e42]:
+            - button "5 Choose a system" [ref=e43]:
+              - generic [ref=e44]: "5"
+              - generic [ref=e45]: Choose a system
+            - generic [ref=e46]: ·
+          - generic [ref=e47]:
+            - button "6 Cost comparison" [ref=e48]:
+              - generic [ref=e49]: "6"
+              - generic [ref=e50]: Cost comparison
+            - generic [ref=e51]: ·
+          - generic [ref=e52]:
+            - button "7 Confirm intent" [ref=e53]:
+              - generic [ref=e54]: "7"
+              - generic [ref=e55]: Confirm intent
+            - generic [ref=e56]: ·
+          - button "8 Create account" [ref=e58]:
+            - generic [ref=e59]: "8"
+            - generic [ref=e60]: Create account
+        - generic [ref=e62]:
+          - generic [ref=e64]:
+            - generic [ref=e65]:
+              - heading "Tell us about you and your power" [level=2] [ref=e66]
+              - paragraph [ref=e67]: We use this to size your system and pre-fill your credit application.
+            - generic [ref=e68]:
+              - generic [ref=e69]:
+                - generic [ref=e70]: Full name *
+                - textbox "Adaeze Okafor" [ref=e71]
+              - generic [ref=e72]:
+                - generic [ref=e73]: WhatsApp number *
+                - textbox "0803 123 4567" [ref=e74]
+              - generic [ref=e75]:
+                - generic [ref=e76]: Email address *
+                - textbox "you@example.com" [ref=e77]
+            - generic [ref=e78]:
+              - generic [ref=e79]: Building type *
+              - generic [ref=e80]:
+                - button "Residential Home or apartment" [ref=e81]:
+                  - img [ref=e83]
+                  - generic [ref=e86]:
+                    - generic [ref=e87]: Residential
+                    - generic [ref=e88]: Home or apartment
+                - button "Commercial Shop, office, SME" [ref=e89]:
+                  - img [ref=e91]
+                  - generic [ref=e94]:
+                    - generic [ref=e95]: Commercial
+                    - generic [ref=e96]: Shop, office, SME
+                - button "Industrial Workshop, factory" [ref=e97]:
+                  - img [ref=e99]
+                  - generic [ref=e101]:
+                    - generic [ref=e102]: Industrial
+                    - generic [ref=e103]: Workshop, factory
+            - generic [ref=e104]:
+              - generic [ref=e105]:
+                - generic [ref=e106]: Monthly salary (₦)
+                - spinbutton [ref=e107]
+              - generic [ref=e108]:
+                - generic [ref=e109]: Monthly grid bill (₦)
+                - spinbutton [ref=e110]
+              - generic [ref=e111]:
+                - generic [ref=e112]: Monthly generator spend (₦)
+                - spinbutton [ref=e113]
+            - generic [ref=e114]:
+              - checkbox "I agree to AlwaysON's privacy notice and consent to the processing of my data in accordance with the Nigeria Data Protection Regulation (NDPR), including sharing with our financing partner for credit assessment. *" [ref=e115]
+              - generic [ref=e117]: I agree to AlwaysON's privacy notice and consent to the processing of my data in accordance with the Nigeria Data Protection Regulation (NDPR), including sharing with our financing partner for credit assessment. *
+          - button "Continue" [ref=e119]:
+            - text: Continue
+            - img [ref=e120]
+  - region "Notifications alt+T"
